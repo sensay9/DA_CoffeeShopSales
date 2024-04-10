@@ -1,5 +1,7 @@
 # DA_Coffee Shop Sales Data Analysis
 
+![CoffeeShopSales_Dashboard](https://github.com/sensay9/DA_CoffeeShopSales/assets/62778520/96e8e646-db26-4dc4-aa27-faf9efe964e4)
+
 This repository contains data analysis performed on Coffee Shop Sales data. The analysis involves various methods such as data cleaning, transformation, and visualization to gain insights into the sales performance of the coffee shop.
 
 ## Analysis Methods Used</br>
